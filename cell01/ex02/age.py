@@ -1,2 +1,4 @@
-my_age = 19
-print(my_age + 42)
+age = 19
+adding = 42 
+my_age = age + adding
+print(my_age)
