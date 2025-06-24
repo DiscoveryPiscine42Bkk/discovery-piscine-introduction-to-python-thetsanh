@@ -6,5 +6,6 @@ for char in string:
         result += char.lower()
     elif char.islower():
         result += char.upper()
-        result += char
+    else:
+        result += char 
 print(result)
