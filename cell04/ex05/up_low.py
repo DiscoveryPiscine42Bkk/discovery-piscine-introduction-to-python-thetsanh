@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 string = input("Enter a word: ")
 result = ""
 for char in string:

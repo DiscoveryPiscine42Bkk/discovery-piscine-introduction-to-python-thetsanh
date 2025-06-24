@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 num1 = int(input("Give me the first numbere: "))
 num2 = int(input("Give me the second numbere: "))
 print("Thank you!")
